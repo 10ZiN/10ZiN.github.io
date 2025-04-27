@@ -4,32 +4,4 @@
     <loc>https://tgc.cloud/</loc>
     <changefreq>daily</changefreq>
   </url>
-  <url>
-    <loc>https://tgc.cloud/downloads/</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://tgc.cloud/downloads/hosts.txt</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://tgc.cloud/downloads/archive/hosts.alive.txt</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://tgc.cloud/downloads/archive/hosts.dead.txt</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://tgc.cloud/downloads/archive/hosts.txt</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://tgc.cloud/downloads/archive/iOSAds.txt</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://tgc.cloud/downloads/archive/iOSAdsLite.txt</loc>
-    <changefreq>daily</changefreq>
-  </url>
 </urlset>
