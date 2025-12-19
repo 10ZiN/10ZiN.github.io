@@ -1,0 +1,5 @@
+user-agent: *
+disallow: /downloads/
+allow: /
+
+sitemap: https://tgc.cloud/sitemap.xml
